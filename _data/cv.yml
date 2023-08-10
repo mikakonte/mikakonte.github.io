@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mika Kontiainen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th September 1999
     - name: Languages
-      value: English, German
+      value: Finnish, English, Swedish, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MPhys
+      institution: University of Edinburgh, Scotland, UK
+      year: 2024
       description:
         - Description 1.
         - Description 2.
